@@ -13,6 +13,7 @@ Our story starts off in 1992. The cold war had just ended and the age of digital
 
 
 ## Education: 
+- Graduated from *Oregon State University (OSU)* with a Bachlors in science
 - Graduated from *Texas Christian University (TCU)* with a Bachlors in Biblical Studies
 - Graduated from *Ohio High School (OHS)* and earned a high school diploma
 
@@ -24,7 +25,9 @@ Our story starts off in 1992. The cold war had just ended and the age of digital
 3. Zoo keeper 
     - **3yrs** / 18-21 yrs old
 4. Wildlife Biologist 
-    - **8yrs** 23-31 yrs old *(current)*
+    - **8yrs** 23-31 yrs old 
+5. Detective 
+    - **10yrs** 42-52 yrs old
 
 
 ## Office Hours 
